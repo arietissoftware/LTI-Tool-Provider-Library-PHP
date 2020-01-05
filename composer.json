@@ -1,5 +1,5 @@
 {
-    "name": "huddledigital/lti",
+    "name": "arietissoftware/lti",
     "version" : "3.0.4",
     "description": "LTI Tool Provider Library",
     "keywords": ["lti"],
