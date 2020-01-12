@@ -1,6 +1,6 @@
 {
     "name": "arietissoftware/lti",
-    "version" : "3.0.4",
+    "version" : "3.0.3",
     "description": "LTI Tool Provider Library",
     "keywords": ["lti"],
     "homepage": "https://www.imsglobal.org/lti",
@@ -13,7 +13,7 @@
         }
     ],
     "require":{
-        "php": ">=5.6.0"
+        "php": ">=5.6.0|^7.2"
     },
     "autoload":{
         "psr-4": {
